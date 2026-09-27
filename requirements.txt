@@ -1,0 +1,7 @@
+# This project uses ONLY the Python standard library.
+# No external packages are required.
+#
+# Standard-library modules used: json, os, hashlib, getpass, datetime
+#
+# To run the project, you only need a normal Python 3 installation
+# (Python 3.7 or newer is recommended).
