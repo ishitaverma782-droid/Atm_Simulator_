@@ -75,4 +75,4 @@ ATM-Simulation-System/
 
 ## Author
 
-*Ishita Verma , 26BCE11056,python essential,
+*Ishita Verma , 26BCE11056,python essential*
